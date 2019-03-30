@@ -6,7 +6,9 @@ Image created for usage with continuous integration systems, and contains the mi
 
 ### Base Image
 
+- [node 8 (carbon)](https://hub.docker.com/r/library/node/) - The node LTS image currently
 - [node 10 (dubnium)](https://hub.docker.com/r/library/node/) - The latest Node LTS image currently
+- [Debian 9.8 (strech)](https://wiki.debian.org/DebianReleases) - Debian Strech Release
 
 ### Other Modules
 
