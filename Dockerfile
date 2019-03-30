@@ -1,5 +1,6 @@
-# last Node LTS, Dubnium, version 10
-FROM node:dubnium
+# Node LTS, Carbon, node version 8 on last debian
+# Node LTS, Dubnium, nove version 10 on last stable debian
+FROM node:carbon
 
 # set user to avoid permission issues, https://github.com/nodejs/node-gyp/issues/1236
 USER node
